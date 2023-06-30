@@ -1,0 +1,6 @@
+ n=1000, z=2000
+for(i=0; i<=15; i++){
+    result=(i*n*z)
+    console.log(i,"*",n,"*",z,"=",result)
+      
+}
